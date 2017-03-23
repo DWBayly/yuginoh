@@ -1,0 +1,7 @@
+G 50 50 8 1 100 140 1
+Z 1000 50 100 140 0 
+D 0 2 mastertransmuter.jpg 4 island.jpg 4
+G 50 190 8 2 100 140 0
+G 50 470 8 1 100 140 1
+Z 1000 470 100 140 0
+D 1 2 mastertransmuter.jpg 4 island.jpg 4
